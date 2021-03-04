@@ -1,9 +1,13 @@
+<?php
+require 'includes/header.php'
+?>
+
 <body>
     <link rel="stylesheet" href="css/about.css">
 
     <div class="about">
         <h1>About Us</h1>
-        <p>uihfuifhvuifdhvuifdhvudihvhf</p>
+        <p>We sell arms, not legs!</p>
     </div>
     <div class="row">
         <div class="column">
